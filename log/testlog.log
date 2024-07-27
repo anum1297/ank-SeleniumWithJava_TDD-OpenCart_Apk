@@ -1,0 +1,76 @@
+2024-07-21 14:45:14,410 - Opencart Framework - INFO - Framework execution Started
+2024-07-21 14:45:14,457 - Opencart Framework - INFO - Browser launches, url, waits, maximuze
+2024-07-21 14:45:21,489 - Opencart Framework - INFO - Added to Cart
+2024-07-21 14:45:24,410 - Opencart Framework - INFO - Added to Cart
+2024-07-21 14:45:26,040 - Opencart Framework - INFO - Logged in
+2024-07-21 14:45:28,973 - Opencart Framework - INFO - Order Placed
+2024-07-21 14:45:28,979 - Opencart Framework - INFO - Browser Close
+2024-07-21 14:45:34,590 - Opencart Framework - INFO - Framework execution Finished
+2024-07-21 14:45:34,590 - Opencart Framework - INFO - ------------------------------------------
+2024-07-27 08:53:52,919 - Opencart Framework - INFO - Framework execution Started
+2024-07-27 08:53:52,978 - Opencart Framework - INFO - Browser launches, url, waits, maximuze
+2024-07-27 08:54:02,103 - Opencart Framework - INFO - Framework execution Finished
+2024-07-27 08:54:02,105 - Opencart Framework - INFO - ------------------------------------------
+2024-07-27 08:54:47,433 - Opencart Framework - INFO - Framework execution Started
+2024-07-27 08:54:47,483 - Opencart Framework - INFO - Browser launches, url, waits, maximuze
+2024-07-27 08:54:54,607 - Opencart Framework - INFO - Added to Cart
+2024-07-27 08:54:57,386 - Opencart Framework - INFO - Added to Cart
+2024-07-27 08:54:59,166 - Opencart Framework - INFO - Logged in
+2024-07-27 08:55:02,331 - Opencart Framework - INFO - Order Placed
+2024-07-27 08:55:02,336 - Opencart Framework - INFO - Browser Close
+2024-07-27 08:55:07,659 - Opencart Framework - INFO - Framework execution Finished
+2024-07-27 08:55:07,660 - Opencart Framework - INFO - ------------------------------------------
+2024-07-27 08:59:05,254 - Opencart Framework - INFO - Framework execution Started
+2024-07-27 08:59:05,298 - Opencart Framework - INFO - Browser launches, url, waits, maximuze
+2024-07-27 08:59:09,646 - Opencart Framework - INFO - Framework execution Finished
+2024-07-27 08:59:09,647 - Opencart Framework - INFO - ------------------------------------------
+2024-07-27 09:00:44,672 - Opencart Framework - INFO - Framework execution Started
+2024-07-27 09:00:44,720 - Opencart Framework - INFO - Browser launches, url, waits, maximuze
+2024-07-27 09:00:49,445 - Opencart Framework - INFO - Testcase Execution Failed VerifyBuyFunctionality
+2024-07-27 09:00:50,024 - Opencart Framework - INFO - Take Screenshot
+2024-07-27 09:00:50,026 - Opencart Framework - INFO - Browser Close
+2024-07-27 09:00:55,342 - Opencart Framework - INFO - Browser launches, url, waits, maximuze
+2024-07-27 09:00:57,726 - Opencart Framework - INFO - Testcase Execution Failed VerifyLoginFunctionality
+2024-07-27 09:00:59,001 - Opencart Framework - INFO - Take Screenshot
+2024-07-27 09:00:59,001 - Opencart Framework - INFO - Browser Close
+2024-07-27 09:01:04,255 - Opencart Framework - INFO - Browser launches, url, waits, maximuze
+2024-07-27 09:01:06,594 - Opencart Framework - INFO - Testcase Execution Failed VerifyRegistorFunctionality
+2024-07-27 09:01:08,033 - Opencart Framework - INFO - Take Screenshot
+2024-07-27 09:01:08,035 - Opencart Framework - INFO - Browser Close
+2024-07-27 09:01:13,354 - Opencart Framework - INFO - Framework execution Finished
+2024-07-27 09:01:13,355 - Opencart Framework - INFO - ------------------------------------------
+2024-07-27 09:04:04,336 - Opencart Framework - INFO - Framework execution Started
+2024-07-27 09:04:04,389 - Opencart Framework - INFO - Browser launches, url, waits, maximuze
+2024-07-27 09:04:08,763 - Opencart Framework - INFO - Testcase Execution Failed VerifyBuyFunctionality
+2024-07-27 09:04:09,952 - Opencart Framework - INFO - Take Screenshot
+2024-07-27 09:04:09,953 - Opencart Framework - INFO - Browser Close
+2024-07-27 09:04:15,210 - Opencart Framework - INFO - Browser launches, url, waits, maximuze
+2024-07-27 09:04:17,985 - Opencart Framework - INFO - Testcase Execution Failed VerifyLoginFunctionality
+2024-07-27 09:04:19,355 - Opencart Framework - INFO - Take Screenshot
+2024-07-27 09:04:19,358 - Opencart Framework - INFO - Browser Close
+2024-07-27 09:04:24,595 - Opencart Framework - INFO - Browser launches, url, waits, maximuze
+2024-07-27 09:04:26,976 - Opencart Framework - INFO - Testcase Execution Failed VerifyRegistorFunctionality
+2024-07-27 09:04:28,147 - Opencart Framework - INFO - Take Screenshot
+2024-07-27 09:04:28,147 - Opencart Framework - INFO - Browser Close
+2024-07-27 09:04:33,389 - Opencart Framework - INFO - Framework execution Finished
+2024-07-27 09:04:33,392 - Opencart Framework - INFO - ------------------------------------------
+2024-07-27 09:06:11,468 - Opencart Framework - INFO - Framework execution Started
+2024-07-27 09:06:11,528 - Opencart Framework - INFO - Browser launches, url, waits, maximuze
+2024-07-27 09:06:15,590 - Opencart Framework - INFO - Testcase Execution Started VerifyBuyFunctionality
+2024-07-27 09:06:18,783 - Opencart Framework - INFO - Added to Cart
+2024-07-27 09:06:21,643 - Opencart Framework - INFO - Added to Cart
+2024-07-27 09:06:23,337 - Opencart Framework - INFO - Logged in
+2024-07-27 09:06:34,318 - Opencart Framework - INFO - Order Placed
+2024-07-27 09:06:34,325 - Opencart Framework - INFO - Testcase Execution Completed VerifyBuyFunctionality
+2024-07-27 09:06:34,326 - Opencart Framework - INFO - Browser Close
+2024-07-27 09:06:39,694 - Opencart Framework - INFO - Browser launches, url, waits, maximuze
+2024-07-27 09:06:42,147 - Opencart Framework - INFO - Testcase Execution Started VerifyLoginFunctionality
+2024-07-27 09:06:44,957 - Opencart Framework - INFO - Testcase Execution Completed VerifyLoginFunctionality
+2024-07-27 09:06:44,957 - Opencart Framework - INFO - Browser Close
+2024-07-27 09:06:50,228 - Opencart Framework - INFO - Browser launches, url, waits, maximuze
+2024-07-27 09:06:52,800 - Opencart Framework - INFO - Testcase Execution Started VerifyRegistorFunctionality
+2024-07-27 09:07:16,532 - Opencart Framework - INFO - Testcase Execution Failed VerifyRegistorFunctionality
+2024-07-27 09:07:16,821 - Opencart Framework - INFO - Take Screenshot
+2024-07-27 09:07:16,821 - Opencart Framework - INFO - Browser Close
+2024-07-27 09:07:22,116 - Opencart Framework - INFO - Framework execution Finished
+2024-07-27 09:07:22,117 - Opencart Framework - INFO - ------------------------------------------
